@@ -1,0 +1,6 @@
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\bin\Debug\01_Lab_FirstTask.exe.config
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\bin\Debug\01_Lab_FirstTask.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\bin\Debug\01_Lab_FirstTask.pdb
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\obj\Debug\01_Lab_SubstrOccurence.csprojResolveAssemblyReference.cache
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\obj\Debug\01_Lab_FirstTask.exe
+c:\users\gamin_000\documents\visual studio 2015\Projects\StringsLINQandStuffLikeThat\01_Lab_FirstTask\obj\Debug\01_Lab_FirstTask.pdb
